@@ -7,7 +7,7 @@
       Anything you want
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2022 <a href="https://ihtishamahmad.com">Ihtisham Ahmad</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2022 <a href="#">Edelstenan en Mineralen</a>.</strong> All rights reserved.
   </footer>
 </div>
 <!-- ./wrapper -->
